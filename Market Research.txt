@@ -12,3 +12,5 @@ Cross Device Compatabily
 Comunity Forums
 General Feed
 No Generative AI
+Colour themes (e.g colourful darkmode)
+Memberships to channels
